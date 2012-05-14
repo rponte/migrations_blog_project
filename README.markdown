@@ -15,7 +15,7 @@ Configurando o projeto e banco de dados (`MySQL`).
 ### 2. Configure as informações do banco se necessário;
 	environments/development.properties
    
-MIGRATIONS VIA LINHA DE COMANDO
+Migrations via linha de comando
 -------------------------------
 
 ###	3. configure a variável de ambiente;
@@ -27,7 +27,7 @@ MIGRATIONS VIA LINHA DE COMANDO
 ###	6. confirme se o banco foi atualizado;
 		$ migrate status
 
-MIGRATIONS VIA ANTTASKS (github.com/triadworks/labs)
+Migrations via Anttasks (github.com/triadworks/labs)
 -------------------------------
 *** Com o Ant instalado ou via GUI da sua IDE
 
@@ -38,7 +38,7 @@ MIGRATIONS VIA ANTTASKS (github.com/triadworks/labs)
 ###	5. confirme se o banco foi atualizado;
 		$ ant db:migrate:status
 
-MAIS INFORMAÇÕES
+Mais informações
 ----------------
 		
 **MyBatis Migrations**
