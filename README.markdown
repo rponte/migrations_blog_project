@@ -42,8 +42,8 @@ MAIS INFORMAÇÕES
 ----------------
 		
 **MyBatis Migrations**
-http://www.mybatis.org/java.html
-http://code.google.com/p/mybatis/
+- http://www.mybatis.org/java.html
+- http://code.google.com/p/mybatis/
 
 **MyBatis Migrations Anttasks**
 https://github.com/triadworks/labs
