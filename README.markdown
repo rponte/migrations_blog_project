@@ -46,4 +46,4 @@ MAIS INFORMAÇÕES
 - http://code.google.com/p/mybatis/
 
 **MyBatis Migrations Anttasks**
-https://github.com/triadworks/labs
+- https://github.com/triadworks/labs
